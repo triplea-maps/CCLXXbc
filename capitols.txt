@@ -1,0 +1,8 @@
+Alexandria  (4668,2529)
+Persepolis  (7100,2485)
+Cirta  (1664,2275)
+Roma  (3027,1123)
+Carthago  (2454,1758)
+Sparta  (4191,1759)
+Antioch  (5705,1609)
+Thessalonica  (4279,1137)
